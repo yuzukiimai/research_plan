@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  27 APR 2023 13:35
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  27 APR 2023 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,9 +146,9 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 12.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 12.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 12.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 12.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
@@ -162,13 +162,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 5.76599pt on input line 12.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 12.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 12.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 14.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 14.
+(Font)              scaled to size 13.83836pt on input line 17.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 18.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 18.
 
 
 Package caption Warning: Unused \captionsetup[figure] on input line 4.
@@ -182,12 +186,12 @@ See the caption package documentation for explanation.
 
 ] (./20C1015_imai.aux) ) 
 Here is how much of TeX's memory you used:
- 2651 strings out of 481768
- 43243 string characters out of 5933620
- 291499 words of memory out of 5000000
- 18100 multiletter control sequences out of 15000+600000
- 542207 words of font info for 69 fonts, out of 8000000 for 9000
+ 2652 strings out of 481768
+ 43258 string characters out of 5933620
+ 292499 words of memory out of 5000000
+ 18101 multiletter control sequences out of 15000+600000
+ 542795 words of font info for 72 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 48i,7n,46p,309b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,7n,46p,309b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 20C1015_imai.dvi (1 page, 776 bytes).
+Output written on 20C1015_imai.dvi (1 page, 1604 bytes).
