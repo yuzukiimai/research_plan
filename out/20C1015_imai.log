@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  27 APR 2023 16:18
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  2 MAY 2023 00:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/yuzuki/master_text/20C1015_imai.tex
-(/home/yuzuki/master_text/20C1015_imai.tex
+**/home/yuzuki/research_plan/20C1015_imai.tex
+(/home/yuzuki/research_plan/20C1015_imai.tex
 pLaTeX2e <2020-02-02>+2 (based on LaTeX2e <2020-02-02> patch level 2)
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
 Document Class: jsarticle 2020/02/02 jsclasses (okumura, texjporg)
@@ -154,24 +154,42 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 17.
+File: fig/lm1.pdf Graphic file (type pdf)
+<fig/lm1.pdf>
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 44.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 44.
+File: fig/lm2.pdf Graphic file (type pdf)
+<fig/lm2.pdf>
 
-Package caption Warning: Unused \captionsetup[figure] on input line 4.
-See the caption package documentation for explanation.
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 41--51
+[][] [] 
+ []
 
+[1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <9> not available
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 94.
+LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <9> not available
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 94.
 
 Package caption Warning: Unused \captionsetup[table] on input line 5.
 See the caption package documentation for explanation.
 
-[1
-
-] (out/20C1015_imai.aux) ) 
+[2] (out/20C1015_imai.aux) ) 
 Here is how much of TeX's memory you used:
- 2654 strings out of 481768
- 43343 string characters out of 5933620
- 294502 words of memory out of 5000000
- 18101 multiletter control sequences out of 15000+600000
- 542207 words of font info for 69 fonts, out of 8000000 for 9000
+ 2688 strings out of 481768
+ 43790 string characters out of 5933620
+ 294513 words of memory out of 5000000
+ 18127 multiletter control sequences out of 15000+600000
+ 543132 words of font info for 73 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 48i,7n,46p,334b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,7n,46p,336b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/20C1015_imai.dvi (1 page, 4300 bytes).
+Output written on out/20C1015_imai.dvi (2 pages, 6652 bytes).
