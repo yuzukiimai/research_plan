@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  2 MAY 2023 00:56
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2022.12.6)  2 MAY 2023 20:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -157,39 +157,42 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: fig/lm1.pdf Graphic file (type pdf)
 <fig/lm1.pdf>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 45.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 45.
 File: fig/lm2.pdf Graphic file (type pdf)
 <fig/lm2.pdf>
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 41--51
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 42--52
 [][] [] 
  []
 
 [1
 
 ]
+File: ./figs/tukuba.png Graphic file (type bmp)
+<./figs/tukuba.png>
+[2]
 LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <9> not available
-(Font)              Font shape `JT1/mc/m/n' tried instead on input line 94.
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 94.
+(Font)              scaled to size 8.64899pt on input line 106.
 LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <9> not available
-(Font)              Font shape `JY1/mc/m/n' tried instead on input line 94.
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 94.
+(Font)              scaled to size 8.64899pt on input line 106.
 
 Package caption Warning: Unused \captionsetup[table] on input line 5.
 See the caption package documentation for explanation.
 
-[2] (out/20C1015_imai.aux) ) 
+[3] (out/20C1015_imai.aux) ) 
 Here is how much of TeX's memory you used:
- 2688 strings out of 481768
- 43790 string characters out of 5933620
+ 2695 strings out of 481768
+ 43909 string characters out of 5933620
  294513 words of memory out of 5000000
- 18127 multiletter control sequences out of 15000+600000
+ 18130 multiletter control sequences out of 15000+600000
  543132 words of font info for 73 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  48i,7n,46p,336b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/20C1015_imai.dvi (2 pages, 6652 bytes).
+Output written on out/20C1015_imai.dvi (3 pages, 7956 bytes).

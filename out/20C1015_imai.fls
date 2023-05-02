@@ -76,5 +76,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT fig/lm2.pdf
 INPUT extractbb -B cropbox -O fig/lm2.pdf
 OUTPUT out/20C1015_imai.dvi
+INPUT ./figs/tukuba.png
+INPUT extractbb -B cropbox -O ./figs/tukuba.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
 INPUT out/20C1015_imai.aux

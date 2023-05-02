@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1682956576 "out/20C1015_imai.dvi" "out/20C1015_imai.pdf" "out/20C1015_imai" 1682956576
-  "out/20C1015_imai.dvi" 1682956576 6652 222aa5bfc6d8b0c2f951ce8be811ec1f "latex"
+["dvipdf"] 1683027028 "out/20C1015_imai.dvi" "out/20C1015_imai.pdf" "out/20C1015_imai" 1683027029
+  "out/20C1015_imai.dvi" 1683027028 7956 a98dcebd76e32c4865a498b931df0905 "latex"
   (generated)
   "out/20C1015_imai.pdf"
-["latex"] 1682956575 "/home/yuzuki/research_plan/20C1015_imai.tex" "out/20C1015_imai.dvi" "20C1015_imai" 1682956576
+["latex"] 1683027028 "/home/yuzuki/research_plan/20C1015_imai.tex" "out/20C1015_imai.dvi" "20C1015_imai" 1683027029
   "/etc/texmf/web2c/texmf.cnf" 1670335848 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/yuzuki/research_plan/20C1015_imai.tex" 1682956575 4907 a1b0e40831b48e1f042effa44456fe45 ""
+  "/home/yuzuki/research_plan/20C1015_imai.tex" 1683027028 5904 39d990ed683a2d6b4e8e50681de124cd ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -41,10 +41,11 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/eptex/platex.fmt" 1670335912 10598660 88c471ab1f5e8d88900712abc31f9a16 ""
-  "20C1015_imai.tex" 1682956575 4907 a1b0e40831b48e1f042effa44456fe45 ""
+  "20C1015_imai.tex" 1683027028 5904 39d990ed683a2d6b4e8e50681de124cd ""
   "fig/lm1.pdf" 1682951403 119321 b3c2e6c132b25b6e09ebada4f881eea4 ""
   "fig/lm2.pdf" 1682951403 123158 1a295ec199f55ea56d6fdf535dfc4244 ""
-  "out/20C1015_imai.aux" 1682956576 655 b375b9f3ce6ad49102e7c4fbe7bacfb2 "latex"
+  "figs/tukuba.png" 1683024553 812967 2ad0627e141f456b72daac2c6ea8ec00 ""
+  "out/20C1015_imai.aux" 1683027028 829 2303df3fca10d23f5fbb7c31d7640f60 "latex"
   (generated)
   "out/20C1015_imai.log"
   "out/20C1015_imai.dvi"
